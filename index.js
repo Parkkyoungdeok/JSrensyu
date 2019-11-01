@@ -80,10 +80,10 @@ const calculator = {
 }
 
 //console.log(greetNicolas)
-const plus = calculator.plus(5, 5);
-const minus = calculator.minus(5, 5);
-const multi = calculator.multi(5, 5);
-const devide = calculator.devide(5, 5);
-const power = calculator.power(5, 5);
+const plus = calculator.plus(10, 5);
+const minus = calculator.minus(10, 5);
+const multi = calculator.multi(10, 5);
+const devide = calculator.devide(10, 5);
+const power = calculator.power(10, 5);
 
 console.log(plus, minus, multi, devide, power);
